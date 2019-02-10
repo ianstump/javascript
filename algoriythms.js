@@ -101,3 +101,25 @@ function pairElement(str) {
 
 // test here
 pairElement("GCG");
+
+/////////////////////////////
+
+function iqTest(numbers) {
+  const arr = [];
+  let position = 0;
+  numbers.split(" ").forEach(letter => {
+    if (letter != " ") {
+      arr.push(parseInt(letter));
+    }
+  });
+  for (let arr = 1; arr < array.length; arr++) {
+        if (arr[1]-1)    
+  }
+
+  return total;
+
+  // ...
+}
+
+iqTest("2 4 7 8 10");
+iqTest("1 2 2");
